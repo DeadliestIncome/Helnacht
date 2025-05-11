@@ -1,0 +1,17 @@
+version="1"
+tags={
+	"Total Conversion"
+}
+name="Warhammer"
+replace_path="common/bookmark_portraits"
+replace_path="common/bookmarks"
+replace_path="common/decisions"
+replace_path="common/coat_of_arms/dynamic_definitions"
+replace_path="events"
+replace_path="common/dynasties"
+replace_path="history/characters"
+replace_path="history/provinces"
+replace_path="map_data"
+replace_path="history/titles"
+supported_version="1.15.0"
+path="mod/Warhammer"

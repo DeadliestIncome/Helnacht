@@ -1,0 +1,11 @@
+﻿# wh_imperial_government = {
+	# create_cadet_branches = yes
+	# rulers_should_have_dynasty = yes
+	
+	# primary_holding = castle_holding
+	# required_county_holdings = { castle_holding city_holding church_holding }
+	
+	# vassal_contract_group = feudal_vassal
+	
+	# color = hsv{ 1.00 1.00 1.00 }
+# }

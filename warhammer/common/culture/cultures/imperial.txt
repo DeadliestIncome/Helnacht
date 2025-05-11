@@ -1,0 +1,594 @@
+﻿averlander = {
+	color = { 202.5 202.5 22.5 }
+	created = 5000.1.1
+	parents = { brigundian }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_moon_touched
+		tradition_life_is_just_a_joke
+		tradition_agrarian
+		tradition_pastoralists
+		tradition_state_troops
+	}
+
+	name_list = averlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #hungarians
+		25 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+		25 = turkic
+		25 = turkic_west
+	}
+}
+
+drakwalder = {
+	color = { 67.5 135 22.5 }
+	created = 5000.1.1
+	parents = { thuringian } 
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_drakwalder_legacy
+		tradition_forest_fighters
+		tradition_hunters
+		tradition_festivities
+		tradition_staunch_traditionalists
+	}
+	
+	name_list = drakwalder_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #german
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+hochlander = {
+	color = { 45 180 22.5 }
+	created = 5000.1.1
+	parents = { cherusen } 
+	
+	ethos = ethos_stoic
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_hochlander_tradition
+		tradition_forest_fighters
+		tradition_hunters
+		tradition_welcoming
+		tradition_state_troops
+	}
+
+	name_list = hochlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx dde_hre_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #Polabian
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+
+middenlander = {
+	color = { 67.5 67.5 202.5 }
+	created = 5000.1.1
+	parents = { teutogen } 
+	
+	ethos = ethos_communal
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_middenlander_tradition
+		tradition_forest_fighters
+		tradition_staunch_traditionalists
+		tradition_reverence_for_veterans
+		tradition_state_troops
+	}
+
+	name_list = middenlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #based on saxons
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+nordlander = {
+	color = { 22.5 22.5 135 }
+	created = 5000.1.1
+	parents = { jutones } 
+	
+	ethos = ethos_bellicose
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_nordland_tradition
+		tradition_loyal_soldiers
+		tradition_warrior_culture
+		tradition_state_troops
+	}
+	dlc_tradition = {
+		trait = tradition_fp1_trials_by_combat
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_fishermen
+	}
+
+	name_list = nordlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #Frissian
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+neueslander = {
+	color = { 112.5 157.5 202.5 }
+	created = 5000.1.1
+	parents = { reiklander } 
+	
+	#ethos = 
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_state_troops
+		tradition_culture_blending
+	}
+
+	name_list = neueslander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #german
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+old_imperial = {
+	color = { 202.5 202.5 202.5 }
+
+	ethos = ethos_stoic #TODO: Replace placeholder
+	heritage = heritage_baltic #TODO: Replace placeholder
+	language = language_baltic #TODO: Replace placeholder
+	martial_custom = martial_custom_male_only #TODO: Replace placeholder
+	head_determination = head_determination_domain
+	traditions = { #TODO: Replace placeholder
+		tradition_forest_folk
+		tradition_sacred_groves
+	}
+
+	dlc_tradition = { #TODO: Replace placeholder
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+
+	name_list = old_imperial_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #german
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+ostermarker = {
+	color = { 202.5 67.5 157.5 }
+	created = 5000.1.1
+	parents = { ostagoth } 
+	
+	ethos = ethos_spiritual
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_ostermark_tradition
+		tradition_horse_breeder
+		tradition_festivities
+		tradition_stalwart_defenders
+		tradition_state_troops
+	}
+
+	name_list = ostermarker_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #Slovien
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+ostlander = {	
+	color = { 90 90 135 }
+	created = 5000.1.1
+	parents = { udoses } 
+	
+	ethos = ethos_bellicose
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_ostland_tradition
+		tradition_stand_and_fight
+		tradition_martial_admiration
+		tradition_wedding_ceremonies
+		tradition_modest
+		tradition_state_troops
+	}
+
+	name_list = ostlander_name_list 
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx dde_hre_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #Pomeranian
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+reiklander = {
+	color = { 202.5 202.5 202.5 }
+	created = 5000.1.1
+	parents = { unberogen } 
+	
+	ethos = ethos_courtly
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_reiklander_tradition
+		tradition_astute_diplomats
+		tradition_welcoming
+		tradition_martial_admiration
+		tradition_state_troops
+	}
+
+	name_list = reiklander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx dde_hre_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {#assign only when told to franconian
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+sollander = {
+	color = { 180 157.5 67.5 }
+	created = 5000.1.1
+	parents = { menogoth } 
+
+	ethos = ethos_spiritual
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_forbearing
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_state_troops
+	}
+
+	name_list = sollander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #swabian
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+stirlander = {
+	color = { 135 202.5 135 }
+	created = 5000.1.1
+	parents = { asoborn } 
+	
+	ethos = ethos_spiritual
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_stirland_tradition
+		tradition_forbearing
+		tradition_isolationist
+		tradition_agrarian
+		tradition_state_troops
+	}
+
+	name_list = stirlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #hungarian
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+sylvanian = {
+	color = { 112.5 90 135 }
+	created = 5400.1.1
+	parents = { fennone } 
+	
+	ethos = ethos_stoic
+	heritage = heritage_imperial
+	language = language_fenonnian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_sylvanian_tradition
+		tradition_isolationist
+		tradition_staunch_traditionalists
+		tradition_agrarian
+		tradition_vampiric_ambition #place holder
+	}
+
+	name_list = sylvanian_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #vlah
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+talabeclander = {
+	color = { 225 90 112.5 }
+	
+	created = 5000.1.1
+	parents = { taleuten } 
+	
+	ethos = ethos_spiritual
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_talabeclander_tradition
+		#tradition_forest_folk
+		tradition_forbearing
+		tradition_equitable
+		tradition_state_troops
+	}
+
+	name_list = talabeclander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { # czech
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+westerlander = {
+	color = { 157.5 157.5 225 }
+	created = 5000.1.1
+	parents = { endal } 
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_westerlander_tradition
+		tradition_hard_working
+		tradition_xenophilic
+		tradition_wetlanders
+		tradition_state_troops
+	}
+	
+	name_list = westerlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx frisian_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #Dutch
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+wissenlander = {
+	color = { 157.5 157.5 157.5 }
+	created = 5000.1.1
+	parents = { merogen } 
+	
+	ethos = ethos_stoic
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_wissenlander_tradition
+		tradition_faith_bound
+		tradition_hard_working
+		tradition_metal_craftsmanship
+		tradition_stand_and_fight
+	}
+
+	name_list = wissenlander_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = { #Bavarian
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+dwarf_imperial = {
+	#color = 
+	created = 4500.1.1
+	parents = { dwarf_everpeak } 
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_diasporic_dawi
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_hard_working
+		tradition_eye_for_an_eye
+		tradition_staunch_traditionalists
+		tradition_mountain_homes
+		tradition_state_troops
+	}
+	
+	name_list = dwarf_imperial_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+
+	ethnicities = {
+		10 = halfling
+	}
+}
+
+sudenburger = {
+	color = { 135 157.5 225 }
+	created = 5952.1.1
+	parents = { westerlander } 
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_imperial
+	language = language_reikspiel
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_hard_working
+		tradition_xenophilic
+		tradition_maritime_mercantilism
+		tradition_family_entrepreneurship
+		tradition_state_troops
+	}
+	
+	name_list = sudenburger_name_list
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx frisian_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = { #Dutch
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

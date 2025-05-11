@@ -1,0 +1,64 @@
+﻿
+autaria_100 = {
+	name = Catone
+	religion = stromfels
+	culture = sartosan_tilean
+	trait = brave
+	trait = diligent
+	trait = greedy
+	trait = education_martial_3
+	6492.1.1 = {
+		birth = yes	
+	}
+	6580.8.29 = {
+		death = yes
+	}
+}
+
+liburni_100 = {
+	name = Liburni
+	religion = myrmidian_eastern
+	culture = tobaran
+	6487.1.1 = {
+		birth = yes	
+	}
+	6580.8.29 = {
+		death = yes
+	}
+}
+
+delamata_100 = {
+	name = Derek
+	religion = stromfels
+	culture = sartosan_tilean
+	6491.1.1 = {
+		birth = yes	
+	}
+	6580.8.29 = {
+		death = yes
+	}
+}
+
+isole_sirene_100 = {
+	name = Isorek
+	religion = stromfels
+	culture = sartosan_tilean
+	6478.1.1 = {
+		birth = yes	
+	}
+	6580.8.29 = {
+		death = yes
+	}
+}
+
+scordisci_100 = {
+	name = Mantarion
+	religion = stromfels
+	culture = sartosan_tilean
+	6485.1.1 = {
+		birth = yes	
+	}
+	6580.8.29 = {
+		death = yes
+	}
+}
