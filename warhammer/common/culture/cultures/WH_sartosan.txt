@@ -49,7 +49,10 @@ sartosan_norscan = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -84,8 +87,7 @@ sartosan_tilean = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		5 = tilean_north
-		15 = tilean_south
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -116,8 +118,7 @@ sartosan_estalian = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		10 = estalian_north
-		10 = estalian_south
+		6 = mediterranean
 	}
 }
 
@@ -144,8 +145,10 @@ sartosan_bretonnian = {
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		10 = bretonnian_north
-		10 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -173,8 +176,9 @@ sartosan_imperial = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = { 
-		15 = tilean_south
-		3 = tilean_myken
-		2 = tilean_north
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }

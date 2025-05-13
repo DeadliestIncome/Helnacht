@@ -35,7 +35,10 @@ aesling = {
 	unit_gfx = { norse_unit_gfx } 
 	
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -61,7 +64,10 @@ baersonling = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -85,7 +91,10 @@ bjornling = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -112,7 +121,10 @@ fjarmann = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 graeling = {
@@ -136,7 +148,10 @@ graeling = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -162,7 +177,10 @@ sarl = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -187,7 +205,10 @@ skaeling = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -212,7 +233,10 @@ varg = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -238,6 +262,9 @@ doragoan = {
 	unit_gfx = { norse_unit_gfx } 
 
 	ethnicities = {
-		20 = norscan
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }

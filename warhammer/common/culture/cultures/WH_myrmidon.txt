@@ -21,9 +21,7 @@
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		15 = tilean_south
-		3 = tilean_myken
-		2 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -50,9 +48,7 @@ magremasi = { #dead
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		15 = tilean_south
-		3 = tilean_myken
-		2 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -79,7 +75,7 @@ remasi = { #dead
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		20 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -108,6 +104,6 @@ myken = { #Only Myrmidon culture left
 	unit_gfx = { eastern_unit_gfx } 
 
 	ethnicities = {
-		20 = tilean_myken
+		10 = mediterranean_byzantine
 	}
 }

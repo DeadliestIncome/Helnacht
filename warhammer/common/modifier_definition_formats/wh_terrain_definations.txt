@@ -1,0 +1,1153 @@
+﻿drakwald_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+drakwald_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+drakwald_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+drakwald_min_combat_roll = {
+	decimals = 0
+}
+drakwald_max_combat_roll = {
+	decimals = 0
+}
+drakwald_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+drakwald_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+drakwald_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+drakwald_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+drakwald_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+drakwald_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+drakwald_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+drakwald_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+drakwald_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+drakwald_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+drakwald_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+drakwald_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+drakwald_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+drakwald_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_swamp_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+cursed_swamp_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+cursed_swamp_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+cursed_swamp_min_combat_roll = {
+	decimals = 0
+}
+cursed_swamp_max_combat_roll = {
+	decimals = 0
+}
+cursed_swamp_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+cursed_swamp_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+cursed_swamp_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_swamp_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_swamp_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_swamp_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_swamp_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_swamp_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_swamp_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+cursed_swamp_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+cursed_swamp_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_swamp_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_swamp_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+cursed_swamp_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+chaos_wastes_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+chaos_wastes_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+chaos_wastes_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+chaos_wastes_min_combat_roll = {
+	decimals = 0
+}
+chaos_wastes_max_combat_roll = {
+	decimals = 0
+}
+chaos_wastes_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+chaos_wastes_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+chaos_wastes_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+chaos_wastes_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+chaos_wastes_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+chaos_wastes_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+chaos_wastes_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+chaos_wastes_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+chaos_wastes_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+chaos_wastes_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+chaos_wastes_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+chaos_wastes_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+chaos_wastes_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+chaos_wastes_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+dwarf_hold_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+dwarf_hold_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+dwarf_hold_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+dwarf_hold_min_combat_roll = {
+	decimals = 0
+}
+dwarf_hold_max_combat_roll = {
+	decimals = 0
+}
+dwarf_hold_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+dwarf_hold_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+dwarf_hold_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+dwarf_hold_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+dwarf_hold_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+dwarf_hold_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+dwarf_hold_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+dwarf_hold_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+dwarf_hold_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+dwarf_hold_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+dwarf_hold_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+dwarf_hold_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+dwarf_hold_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+dwarf_hold_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+cursed_hills_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+cursed_hills_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+cursed_hills_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+cursed_hills_min_combat_roll = {
+	decimals = 0
+}
+cursed_hills_max_combat_roll = {
+	decimals = 0
+}
+cursed_hills_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+cursed_hills_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+cursed_hills_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_hills_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_hills_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_hills_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_hills_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_hills_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_hills_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+cursed_hills_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+cursed_hills_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_hills_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_hills_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+cursed_hills_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+cursed_mountains_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+cursed_mountains_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+cursed_mountains_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+cursed_mountains_min_combat_roll = {
+	decimals = 0
+}
+cursed_mountains_max_combat_roll = {
+	decimals = 0
+}
+cursed_mountains_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+cursed_mountains_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+cursed_mountains_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_mountains_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_mountains_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_mountains_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_mountains_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_mountains_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_mountains_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+cursed_mountains_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+cursed_mountains_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_mountains_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_mountains_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+cursed_mountains_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+cursed_desert_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+cursed_desert_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+cursed_desert_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+cursed_desert_min_combat_roll = {
+	decimals = 0
+}
+cursed_desert_max_combat_roll = {
+	decimals = 0
+}
+cursed_desert_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+cursed_desert_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+cursed_desert_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_desert_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_desert_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_desert_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_desert_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_desert_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_desert_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+cursed_desert_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+cursed_desert_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_desert_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_desert_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+cursed_desert_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+cursed_forest_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+cursed_forest_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+cursed_forest_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+cursed_forest_min_combat_roll = {
+	decimals = 0
+}
+cursed_forest_max_combat_roll = {
+	decimals = 0
+}
+cursed_forest_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+cursed_forest_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+cursed_forest_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_forest_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_forest_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_forest_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_forest_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_forest_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_forest_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+cursed_forest_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+cursed_forest_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_forest_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_forest_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+cursed_forest_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+cursed_taiga_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+cursed_taiga_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+cursed_taiga_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+cursed_taiga_min_combat_roll = {
+	decimals = 0
+}
+cursed_taiga_max_combat_roll = {
+	decimals = 0
+}
+cursed_taiga_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+cursed_taiga_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+cursed_taiga_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_taiga_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_taiga_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_taiga_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+cursed_taiga_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_taiga_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+cursed_taiga_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+cursed_taiga_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+cursed_taiga_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+cursed_taiga_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+cursed_taiga_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+cursed_taiga_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+urban_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+urban_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+urban_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+urban_min_combat_roll = {
+	decimals = 0
+}
+urban_max_combat_roll = {
+	decimals = 0
+}
+urban_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+urban_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+urban_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+urban_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+urban_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+urban_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+urban_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+urban_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+urban_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+urban_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+urban_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+urban_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+urban_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+urban_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+
+magical_forest_attrition_mult = {
+	decimals = 0
+	color = bad
+	percent = yes
+}
+
+magical_forest_cancel_negative_supply = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+magical_forest_advantage = {
+	prefix = MOD_ADVANTAGE_PREFIX
+	decimals = 0
+}
+magical_forest_min_combat_roll = {
+	decimals = 0
+}
+magical_forest_max_combat_roll = {
+	decimals = 0
+}
+magical_forest_development_growth = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 1
+}
+magical_forest_development_growth_factor = {
+	prefix = MOD_DEVELOPMENT_PREFIX
+	decimals = 0
+	percent = yes
+}
+magical_forest_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+magical_forest_holding_construction_gold_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+magical_forest_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+magical_forest_holding_construction_piety_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PIETY_PREFIX
+	percent = yes
+}
+
+magical_forest_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+magical_forest_holding_construction_prestige_cost = {
+	decimals = 0
+	color = bad
+	prefix = MOD_PRESTIGE_PREFIX
+	percent = yes
+}
+
+magical_forest_supply_limit = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+}
+
+magical_forest_supply_limit_mult = {
+	prefix = MOD_SUPPLY_PREFIX
+	decimals = 0
+	percent = yes
+}
+
+magical_forest_tax_mult = {
+	decimals = 0
+	prefix = MOD_GOLD_PREFIX
+	percent = yes
+}
+
+magical_forest_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}
+magical_forest_provisions_use_mult = {
+	decimals = 0
+	prefix = MOD_PROVISIONS_PREFIX
+	color = bad
+	percent = yes
+}
+magical_forest_levy_size = {
+	decimals = 0
+	prefix = MOD_SOLDIER_PREFIX
+	percent = yes
+}

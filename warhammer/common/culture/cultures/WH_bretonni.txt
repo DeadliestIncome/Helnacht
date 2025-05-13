@@ -20,7 +20,10 @@
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		20 = bretonnian_north
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -48,8 +51,10 @@ armoric = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		14 = bretonnian_north
-		6 = norscan
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -77,8 +82,10 @@ bourgon = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		10 = bretonnian_north
-		10 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -106,8 +113,10 @@ breton = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		10 = bretonnian_north
-		10 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -135,7 +144,10 @@ carcassi = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		20 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -163,8 +175,10 @@ gisorii = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		16 = bretonnian_north
-		4 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -192,8 +206,10 @@ gascon = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		8 = bretonnian_north
-		12 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -251,7 +267,9 @@ nortagnese = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		18 = bretonnian_north
-		2 = norscan
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }

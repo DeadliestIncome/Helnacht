@@ -22,7 +22,7 @@
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		20 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -51,8 +51,7 @@ avilian = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		5 = estalian_north
-		15 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -81,8 +80,7 @@ galice = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		15 = estalian_north
-		5 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -111,8 +109,7 @@ montanese = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		10 = estalian_north
-		10 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -138,8 +135,7 @@ neopatrian = { #BP
 	unit_gfx = { iberian_christian_unit_gfx }
 	
 	ethnicities = {
-		10 = estalian_north
-		10 = estalian_south
+		10 = mediterranean
 	}
 	mercenary_names = {
 		{ name = "mercenary_company_neopatria_thesallian_company" }
@@ -176,8 +172,7 @@ norteno = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		17 = estalian_north
-		3 = bretonnian_south
+		10 = mediterranean
 	}
 }
 
@@ -206,8 +201,7 @@ obregonese = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		7 = estalian_north
-		13 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -234,8 +228,7 @@ comarcano = {
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		10 = estalian_north
-		10 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -264,8 +257,7 @@ tigarrese = {
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		18 = estalian_north
-		2 = estalian_south
+		10 = mediterranean
 	}
 }
 
@@ -291,8 +283,7 @@ sureno = { # "Andalusian" Estalians
 	unit_gfx = { iberian_muslim_unit_gfx }
 
 	ethnicities = {
-		15 = estalian_south
-		5 = arabyan_north
+		10 = mediterranean
 	}
 	mercenary_names = {
 		{ name = "mercenary_company_sureno_dragoon_company" }

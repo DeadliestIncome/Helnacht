@@ -21,7 +21,7 @@
 	unit_gfx = { iranian_unit_gfx }
 
 	ethnicities = {
-		20 = strigany
+		1 = indian
 	}
 }
 
@@ -48,6 +48,6 @@ strygan = {
 	unit_gfx = { iranian_unit_gfx }
 
 	ethnicities = {
-		20 = strigany
+		1 = indian
 	}
 }

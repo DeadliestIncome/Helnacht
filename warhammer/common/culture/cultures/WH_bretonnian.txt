@@ -28,8 +28,10 @@ bastonnian = { #Duchy of Bastonne
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		12 = bretonnian_north
-		8 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -57,9 +59,10 @@ bordelen = { #Duchy of Bordelaux
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		9 = bretonnian_north
-		10 = bretonnian_south
-		1 = estalian_north
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -88,8 +91,10 @@ gisoren = { #Duchy of Gisoreux
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		16 = bretonnian_north
-		4 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -118,8 +123,10 @@ artoin = { #Duchy of Artois
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		15 = bretonnian_north
-		5 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -148,8 +155,10 @@ mousillonian = { #Duchy of Mousillon
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		13 = bretonnian_north
-		7 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -179,8 +188,10 @@ parravonese = { #Duchy of Parravon
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		7 = bretonnian_north
-		13 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -207,8 +218,10 @@ monfortian = { #Duchy of Montfort
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		13 = bretonnian_north
-		7 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -238,8 +251,10 @@ carcassonian = { #Duchy of Carcassonne
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		15 = bretonnian_south
-		5 = estalian_north
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -268,9 +283,10 @@ brionnian = { #Duchy of Brionne
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		2 = bretonnian_north
-		15 = bretonnian_south
-		3 = estalian_north
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -304,8 +320,10 @@ queneller = { #Duchy of Quenelles
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		3 = bretonnian_north
-		17 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -337,9 +355,10 @@ aquitanian = { #Duchy of Aquitain
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		4 = bretonnian_north
-		14 = bretonnian_south
-		2 = estalian_north
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -369,9 +388,10 @@ couronnean = { #Duchy of Couronne
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		15 = bretonnian_north
-		1 = bretonnian_south
-		4 = norscan
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -399,9 +419,10 @@ l_anguillen = { #L ANGUILE HON HON
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		14 = bretonnian_north
-		2 = bretonnian_south
-		4 = norscan
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -435,9 +456,10 @@ lyonen = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		12 = bretonnian_north
-		2 = bretonnian_south
-		6 = norscan
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -467,8 +489,10 @@ herrimault = {
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		10 = bretonnian_north
-		10 = bretonnian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -495,9 +519,10 @@ nordscane = { #Norscan Brets
 	unit_gfx = { western_unit_gfx }
 	
 	ethnicities = {
-		9 = bretonnian_north
-		1 = bretonnian_south
-		10 = norscan
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -526,9 +551,10 @@ marcheur = { #Estalian Brets
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		9 = bretonnian_south
-		9 = estalian_north
-		2 = estalian_south
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 

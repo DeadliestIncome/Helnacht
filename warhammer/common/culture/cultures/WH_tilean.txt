@@ -23,9 +23,7 @@
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		15 = tilean_south
-		3 = tilean_myken
-		2 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -55,7 +53,7 @@ miraglian = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		20 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -82,9 +80,7 @@ oltremari = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		5 = estalian_north
-		9 = estalian_south
-		6 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -113,8 +109,7 @@ reman = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		10 = tilean_north
-		10 = tilean_south
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -144,9 +139,7 @@ tobaran = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		5 = estalian_north
-		9 = estalian_south
-		6 = tilean_north
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -174,8 +167,6 @@ umbrian = {
 	unit_gfx = { western_unit_gfx } 
 
 	ethnicities = {
-		2 = tilean_myken
-		9 = tilean_north
-		9 = tilean_south
+		10 = mediterranean_byzantine
 	}
 }
